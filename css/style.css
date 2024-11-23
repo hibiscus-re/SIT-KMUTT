@@ -1,0 +1,35 @@
+@font-face {
+    font-family: "LINE_SEED_Rg";
+    src: url(LINESeedSansTH_W_Rg.woff);
+}
+
+body {
+    text-align: center;
+    padding: 5% 10%;
+    background-color: #0d0d0f;
+}
+
+h1 {
+    font-family: "LINE_SEED_Rg";
+    font-style: bold;
+    font-size: 70px;
+    color: #caa07d;
+    line-height: 0.5;
+}
+
+h2 {
+    font-family: "LINE_SEED_Rg";
+    font-style: bold;
+    font-size: 20px;
+    color: #f7ece6;
+    line-height: 0.7;
+}
+
+.board {
+    width: 40%;
+    border-radius: 10px;
+  }
+
+.kmutt {
+    width: 65%;
+  }
